@@ -1,4 +1,4 @@
 <?php
-$Greeting = "Welcome To BlackNet | Coming Soom";
+$Greeting = "Welcome To BlackNet | Coming Soon";
 echo $Greeting;
 ?>
