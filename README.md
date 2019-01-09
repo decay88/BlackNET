@@ -24,6 +24,7 @@ Created By : DarkSoftwareCo
 5. Create a database and name it [ blacknet ]
 6. Import blacknet.sql for database structure
 7. Change the data in config.php
+8. Change blacknet files and folders permission to 7777
 
 ## Default Login Data
 Username : admin
