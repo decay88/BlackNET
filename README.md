@@ -25,6 +25,10 @@ Created By : DarkSoftwareCo
 6. Import blacknet.sql for database structure
 7. Change the data in config.php
 
+## Default Login Data
+Username : admin
+Password : admin
+
 ## Screenshot
 
 ![Image of the interface](https://c.top4top.net/p_110481bbz1.png)
